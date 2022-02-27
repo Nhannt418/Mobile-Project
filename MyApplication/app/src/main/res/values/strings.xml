@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">Day la lop A01</string>
+    <string name="true_buton">TRUE</string>
+    <string name="false_buton">FALSE</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">My Application</string>
+
+</resources>
